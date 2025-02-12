@@ -6,3 +6,4 @@ Rather than creating separate repositories, I’ve organized everything into dif
 
 Below is a list of the available items in this repository along with their links—just switches to the corresponding branch to access them.
 
+- [Runix Custom CI/CD](https://github.com/ShadowArcanist/Runix/tree/Custom-CI/CD)
